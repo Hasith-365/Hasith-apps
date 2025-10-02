@@ -51,9 +51,9 @@ const App: React.FC = () => {
 
       <footer className="mt-12 text-center text-gray-500 z-10">
         <p>Built with React & Tailwind CSS.</p>
-        <a href="https://github.com/hasith-365" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 hover:text-purple-400 transition-colors mt-2">
+        <a href="https://github.com/Hasith-365" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 hover:text-purple-400 transition-colors mt-2">
           <GithubIcon className="w-5 h-5" />
-          <span>hasith-365 on GitHub</span>
+          <span>Hasith-365 on GitHub</span>
         </a>
       </footer>
     </div>
